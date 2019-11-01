@@ -1,0 +1,19 @@
+h1{
+    color: white;
+    font-family: "impact";
+    text-align: center;
+    background-color:black;
+}
+h2{
+    text-align: center;
+    background-color:chartreuse;
+}
+p{
+    font-size: 25px;
+    font-weight:bold;
+}
+
+body{
+    background-image: url("../images/03.jpg")
+    background-repeat:no-repeat;
+}
