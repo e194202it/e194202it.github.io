@@ -5,15 +5,21 @@ h1{
     background-color:black;
 }
 h2{
+    color: cornflowerblue;
     text-align: center;
-    background-color:chartreuse;
+    background-color:antiquewhite;
+}
+h3{
+    color:darkgreen;
 }
 p{
-    font-size: 25px;
-    font-weight:bold;
+    color:chocolate;
+    font-size: 15px;
 }
 
 body{
-    background-image: url("../images/03.jpg")
-    background-repeat:no-repeat;
+    background-attachment:scroll;
+    background-position :center;
+    background-image: url("../images/04.jpeg")
+    
 }
