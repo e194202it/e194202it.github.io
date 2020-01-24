@@ -1,0 +1,54 @@
+div.title{
+    width: 1200px;
+    height: 40px;
+    background-color:darkorange;
+    font-size: 30px;
+    text-align: center;
+    font-family: "impact";
+    margin-bottom: 20px;
+}
+
+div.menu{
+    width: 1200px;
+    height: 60px;
+    font-size: 0px;
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 190px;
+    height: 40px;
+    background-color:cornsilk;
+    text-align: center;
+    font-size: 30px;
+    font-family: "impact" ;
+    border:5px dotted aqua;
+    margin: 0px 20px 0;
+    
+}
+div.footer{
+    width: 1000px;
+    height: 40px;
+    color:darkgray;
+    background-color:azure;
+    text-align:left;
+    font-size: 20px;
+    
+}
+body{
+    background-image: url("../images/08.jpg");
+    font-size: 24px;
+
+}
+
+p#top{
+    text-align: center;
+    font-size: 30px;
+}
+
+p#op{
+    text-align: center;
+    font-size: 25px;
+    color:magenta;
+}
