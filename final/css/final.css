@@ -6,6 +6,7 @@ div.title{
     text-align: center;
     font-family: "impact";
     margin-bottom: 20px;
+    text-align: center;
 }
 
 div.menu{
@@ -44,11 +45,4 @@ body{
     background-image: url("../images/08.jpg");
     font-size: 24px;
 
-}
-p#top{
-    text-align: center;
-}
-p#o{
-    text-align: center;
-}
 }

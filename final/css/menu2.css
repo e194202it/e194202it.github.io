@@ -42,11 +42,10 @@ body{
 
 }
 p#top{
-    text-align: center;
     font-size: 30px;
 }
+
 p#op{
-    text-align: center;
     font-size: 25px;
-    color: magenta;
+    color:magenta;
 }
